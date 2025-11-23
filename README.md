@@ -75,4 +75,6 @@ The tool accepts a transcript (text), analyzes it across 8 communication criteri
  streamlit run app.py
  ```
 4. **App URL**
-   link : https://nirmaan-ai-intern-case-study.streamlit.app/ 
+   link : https://nirmaan-ai-intern-case-study.streamlit.app/
+
+**This project structure supports the complete Nirmaan AI case study requirements! 🎉**
