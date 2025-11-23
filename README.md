@@ -62,7 +62,7 @@ The tool accepts a transcript (text), analyzes it across 8 communication criteri
     ```bash
    git init
    git add .
-   git commit -m "Initial commit: Nirmaan AI Communication Scorer"
+   git commit -m "Initial commit: Nirmaan AI Communication"
    git remote add origin your-repo-url
    git push -u origin main
      ```
